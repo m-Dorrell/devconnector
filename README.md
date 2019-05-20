@@ -1,5 +1,5 @@
 # devconnector
-Full stack web application for the purpose of learning
+Full stack web application for the purpose of learning.
 
 To use:
 
